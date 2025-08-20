@@ -21,7 +21,7 @@ function Users() {
     if (loading) {
         return (
             <div className="min-h-screen flex justify-center items-center text-slate-600 text-lg">
-                Loading users...
+                Loading users....
             </div>
         );
     }
