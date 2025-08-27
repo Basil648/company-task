@@ -18,7 +18,7 @@ function Homes() {
                 <div className="relative z-10 max-w-3xl text-white">
                     <h1 className="text-4xl md:text-6xl font-extrabold leading-tight drop-shadow-lg">
                         Welcome to <br />
-                        <span className="text-gray-200">neX Solutions</span>
+                        <span className="text-gray-200">neX IT Solutions</span>
                     </h1>
 
                     <p className="mt-6 text-lg md:text-xl text-gray-100 drop-shadow-md">
